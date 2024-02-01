@@ -1,0 +1,23 @@
+
+.container{
+    text-align: center;
+    padding-top:150px;
+    
+}
+p{
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+span{
+      font-size: 40px;
+}
+.btn{
+     margin-top:30px;    
+}
+button{
+    margin-left:15px;
+    font-size:25px;
+    padding:10px;
+    width:100px;
+}
+
